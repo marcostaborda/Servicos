@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Conectando na Web</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_listar_atividade">Atividade com WebService</string>
+    <string name="action_listar_fragmento">Fragmento com JSON</string>
+    <string name="action_settings">Settings</string>
+    <string name="deletar">Deletar</string>
+
+    <string name="nome">Nome</string>
+    <string name="cidade">Cidade</string>
+    <string name="descricao">Descrição</string>
+
+    <string name="acao_novo">Novo</string>
+</resources>
